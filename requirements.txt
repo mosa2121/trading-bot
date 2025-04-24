@@ -1,4 +1,8 @@
 
 python-binance
+pandas
+numpy
+flask
 twilio
+python-dotenv
 requests
